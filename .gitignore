@@ -1,0 +1,16 @@
+# dependencias
+node_modules/
+.venv/
+__pycache__/
+
+# secretos
+.env
+
+# sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# builds
+dist/
+build/
